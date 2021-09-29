@@ -1,0 +1,23 @@
+/*
+Mi Primer pseudocodigo
+Alexis Zambrano
+ITPA
+TICS
+
+Programa 2: suma de dos numeros.
+
+*/
+
+Algoritmo Suma;
+VAR
+	INT numero1;
+	INT numero2;
+INICIO
+	ESCRIBIR ("Dame los dos numeros");
+	LEER(numero1);
+	LEER(numero2);
+	resultado = numero1 + numero2;
+
+	ESCRIBIR ("El resultado es: ",
+	resultado)
+FIN
