@@ -1,0 +1,20 @@
+/*
+Mi Primer pseudocodigo
+Alexis Zambrano
+ITPA
+TICS
+
+Programa que imprime un nombre que capturamos 
+
+*/
+
+Algoritmo Imprimir-Nombre;
+VAR
+	CARACTER minombre;
+INICIO
+	ESCRIBIR("¿Cual es el nombre?");
+	LEER (minombre);
+	ESCRIBIR (minombre);
+FIN
+
+	
