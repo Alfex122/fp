@@ -1,0 +1,37 @@
+/*
+Pseudocodigo 2.1
+Alexis Zambrno
+ITPA
+TICS
+
+Programa que pide 5 calificaciones y las imprime en una region.
+
+*/
+
+Algoritmo Imprimir-Calificaciones;
+VAR
+	INT calificacion1;
+	INT calificacion2;
+	INT calificacion3;
+	INT calificacion4;
+	INT calificacion5;
+
+Array calificaciones;
+	calificaciones -> [calificacion1, calificacion2, calificacion3, calificacion4, calificacion5];
+	INT calificaciones;
+	calificaciones -> calificacion1, calificacion2, calificacion3, calificacion4, calificacion5;
+
+INICIO
+	ESCRIBIR ("Escribir las calificaciones");
+	LEER("calificacion1");
+	LEER("calificacion2");
+	LEER("calificacion3");
+	LEER("calificacion4");
+	LEER("calificacion5");
+	Escribir (calificaciones);
+
+IF
+IF calificaciones
+	print (calificaciones);
+
+FIN

@@ -1,0 +1,32 @@
+/*
+Pseudocodigo 2.1
+Alexis Zambrno
+ITPA
+TICS
+
+Programa que imprime nombre y apellidos en una region.
+
+*/
+
+VAR
+	CARACTER(Nombre);
+	CARACTER(Apellidos);
+
+Array Nombre-Apellido
+	NombreCompleto -> [Nombre, Apellidos];
+	CARACTER NombreCompleto;
+	NombreCompleto -> Nombre, Apellidos;
+
+INICIO
+	ESCRIBIR ("Escribir nombre");
+	LEER(Nombre);
+	ESCRIBIR ("Escribir apellidos");
+	LEER(Apellidos);
+	Escribir(NombreCompleto);
+	
+IF 
+IF Escribir
+	print (Escribir);
+	print (NombreCompleto);
+
+FIN

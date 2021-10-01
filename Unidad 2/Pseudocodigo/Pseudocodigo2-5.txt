@@ -1,0 +1,26 @@
+/*
+Pseudocodigo 2.1
+Alexis Zambrno
+ITPA
+TICS
+
+Programa que imprime numero mayor.
+
+*/
+
+VAR
+	INT numero1;
+	INT numero2;
+
+INICIO
+	ESCRIBIR ("Colocar los 2 numeros");
+	LEER(numero1);
+	LEER(numero2);
+	
+IF
+IF numero1 > numero2
+	print (numero1);
+IF numero1 < numero2
+	print (numero2);
+
+FIN

@@ -19,5 +19,5 @@ INICIO
 	resultado = numero1 + numero2;
 
 	ESCRIBIR ("El resultado es: ",
-	resultado)
+	resultado);
 FIN

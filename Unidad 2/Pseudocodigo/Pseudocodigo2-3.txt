@@ -1,0 +1,22 @@
+/*
+Pseudocodigo 2.1
+Alexis Zambrno
+ITPA
+TICS
+
+Programa que pide un numero y da el cuadrado con una funcion.
+
+*/
+
+VAR
+	INT numero;
+
+INICIO
+	ESCRIBIR("Escribir numero");
+	LEER (numero);
+	sqr(numero);
+
+	ESCRIBIR ("El resultado es: ",
+	sqr);
+	
+FIN
