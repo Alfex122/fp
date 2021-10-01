@@ -20,4 +20,5 @@ INICIO
 
 	ESCRIBIR ("El resultado es: ",
 	resultado);
+	
 FIN
