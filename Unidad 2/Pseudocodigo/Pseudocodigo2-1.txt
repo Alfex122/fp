@@ -1,5 +1,4 @@
 /*
-
 Pseudocodigo 2.1
 Alexis Zambrno
 ITPA
