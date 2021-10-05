@@ -35,13 +35,13 @@ Mi nombre es Alexis Zambrano y soy un estudiante de **ITPA**
 	Divicion /;
 	Igual =;
 	Exactamente ==;
- Menor que <;
- Mayor que >;
- Diferente !=;
- Menor o igal que <=;
- Mayore o igual que >=;
- AND 
- OR
- ++ contador;
+	Menor que <;
+	Mayor que >;
+	Diferente !=;
+	Menor o igal que <=;
+	Mayore o igual que >=;
+	AND 
+	OR
+	++ contador;
 ### **Constructores**
 	conjunto de instrucciones diseñadas para inicializar una instancia de un objeto.
