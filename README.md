@@ -13,22 +13,22 @@ Mi nombre es Alexis Zambrano y soy un estudiante de **ITPA**
 ## Unidad 2: 
 ### Objetivo:
 ### Concpetos:
-**Variable;** 
+### **Variable;** 
 	Es donde se guardan los datos en un programa, existen distintas variables dependiendo de lo que se quiera trabajar dentro de ella.
-**Constante**
+### **Constante**
 	Es un valor ya definido, es decir que no puede ser alterado 
-**Funcion**
+### **Funcion**
 	Es en donde se desarrolla una tare en especifico.
-**Clase**
+### **Clase**
 	Es donde se operan las variables y metodos que operan con los datos.
-**Estructuras de control**
+### **Estructuras de control**
 	Es para tomar acciones cuando se cumplen ciertos rasgos.
-**Tipos de datos**
+### **Tipos de datos**
 	INT -> Para los numeros 
 	CARACTER -> Palabras
 	BOOLEANO -> FALSO O VERDADERO
 	FLOAT -> flotante o numero con decimales 
-**Operadores**
+### **Operadores**
 	Suma +;
 	Resta -;
 	Multiplicar * ;
@@ -42,6 +42,6 @@ Mi nombre es Alexis Zambrano y soy un estudiante de **ITPA**
  Mayore o igual que >=;
  AND 
  OR
- ++ contador 
-**Constructores**
+ ++ contador;
+### **Constructores**
 	conjunto de instrucciones diseñadas para inicializar una instancia de un objeto.
