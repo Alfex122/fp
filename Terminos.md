@@ -54,7 +54,7 @@ Imprimir motocicletas[0] = Yamaha
 Suma +;
 Resta -;
 Multiplicar *;
-Dividion /;
+Divicion /;
 Igual =;
 Exavtamente ==;
  Menor que <;
