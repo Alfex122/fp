@@ -1,0 +1,41 @@
+/*
+Pseudocodigo 2.2-1
+Alexis Zambrno
+ITPA
+TICS
+
+Programa que pide 3 numeros e imprime el numero mayor.
+
+*/
+
+Algoritmo Imprimir-Numero-Mayor
+
+VAR
+	INT (N1);
+	INT (N2);
+	INT (N3);
+
+INICIO
+	ESCRIBIR ("Dame el primer valor");
+	LEER(N1);
+	ESCRIBIR ("Dame el segundo valor");
+	LEER(N2);
+	ESCRIBIR ("Dame el tercer valor");
+	LEER(N3);
+
+IF N1 > N2 AND N3
+	print (N1);
+IF N2 >N1 AND N3
+	priint (N2);
+IF N3 > N1 AND N2
+	print (N3);
+IF N1 = N2 > N3
+	print (N1, N2);
+IF N1 = N3 > N2
+	print (N1, N3);
+IF N2 = N3 > N1
+	print (N2, N3);
+IF ELSE N1 = N2 = N3
+	print (N1, N2, N3);
+
+FIN

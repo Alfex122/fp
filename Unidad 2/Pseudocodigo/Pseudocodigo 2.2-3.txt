@@ -1,0 +1,21 @@
+/*
+Pseudocodigo 2.2-1
+Alexis Zambrno
+ITPA
+TICS
+
+Programa que te pida un numero y lo imprima la cantidad de veces del numero 
+
+*/
+
+Algoritmo Imprimir-Numero-Su-Mismo-Valor
+
+VAR
+	INT(NX);
+
+INICIO
+	ESCRIBIR ("Dame el numero");
+	LEER(NX);
+	Escribir(NX)*(NX);
+
+FIN

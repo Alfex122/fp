@@ -1,0 +1,38 @@
+/*
+Pseudocodigo 2.2-1
+Alexis Zambrno
+ITPA
+TICS
+
+Programa  que  pida calificaciones y que muestre si está aprobado o reprobado el alumno.
+
+*/
+
+Algoritmo Imprimir-Si-Aprobo
+
+VAR
+	CloaARACTER(Apellido);
+	CARACTER(Nombre);
+	FLOAT(C1);
+	FLOAT(C2);
+	FLOAT(C3);
+
+INICIO
+	ESCRIBIR ("Colocar Apellidos");
+	LEER(Apellido);
+	ESCRIBIR ("Nombre Completo");
+	LEER(Nombre);
+	ESCRIBIR ("Calificacion 1");
+	LEER(C1);
+	ESCRIBIR ("Calificacion 2");
+	LEER(C2);
+	ESCRIBIR ("Calificacion 3");
+	LEER(C3);
+
+IF
+IF (C1 + C2 + C3 / 3) > 6.9 
+	Escribir(Apellido, Nombre, "Aprobo");
+IF (C1 + C2 + C3 / 3) < 7
+	Escribir(Apellido, Nombre, "Reprobo");
+
+FIN

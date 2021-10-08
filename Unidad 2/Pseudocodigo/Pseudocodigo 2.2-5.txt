@@ -1,0 +1,34 @@
+/*
+Pseudocodigo 2.2-1
+Alexis Zambrno
+ITPA
+TICS
+
+Programa que pida nombre y edad y que imprima la persona más grande.
+
+*/
+
+Algoritmo Persona-Mayor
+
+VAR
+	CARACTER(Nombre1);
+	CARACTER(Nombre2);
+	INT(Edad1);
+	INT(Edad2);
+
+INICIO
+	ESCRIBIR ("Dame el primer nombre");
+	LEER(Nombre1);
+	ESCRIBIR ("Dame la edad");
+	LEER(Edad1);
+	ESCRIBIR ("Dame el segundo nombre");
+	LEER(Nombre2);
+	ESCRIBIR ("Dame la edad");
+	LEER(Edad2);
+
+IF Edad1 < Edad2
+	Escribir(Nombre2, Edad2);
+IF Edad1 > Edad2
+	Escribir(Nombre1, Edad1);
+
+FIN
