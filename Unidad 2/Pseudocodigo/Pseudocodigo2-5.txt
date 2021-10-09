@@ -8,6 +8,8 @@ Programa que imprime numero mayor.
 
 */
 
+Algoritmo NumeroMayor
+
 VAR
 	INT numero1;
 	INT numero2;

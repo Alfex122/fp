@@ -8,6 +8,8 @@ Programa que imprime nombre y apellidos en una region.
 
 */
 
+Algoritmo NombreCompleto
+
 VAR
 	CARACTER(Nombre);
 	CARACTER(Apellidos);

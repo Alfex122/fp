@@ -1,5 +1,5 @@
 /*
-Pseudocodigo 2.2-1
+Pseudocodigo 2.2-5
 Alexis Zambrno
 ITPA
 TICS

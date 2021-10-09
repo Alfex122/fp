@@ -8,6 +8,7 @@ Programa que pide un numero y da el cuadrado con una funcion.
 
 */
 
+Algoritmo CuadradoNumero;
 VAR
 	INT numero;
 
