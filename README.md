@@ -45,3 +45,11 @@ Mi nombre es Alexis Zambrano y soy un estudiante de **ITPA**
 	++ contador;
 ### **Constructores**
 	conjunto de instrucciones diseñadas para inicializar una instancia de un objeto.
+
+### **Unidad 3**
+
+*¿Ques es una clase*
+	 Es una construcción que permite crear tipos personalizados propios mediante la agrupación de variables de otros tipos, métodos y eventos. Una clase es como un plano. Define los datos y el comportamiento de un tipo. Si la clase no se declara como estática, el código de cliente puede utilizarla mediante la creación de objetos o instancias que se asignan a una variable.
+*Ejemplos:*
+Clase: casa Objeto: Cama
+Clase: Escuela Objeto: Butacaqs
